@@ -183,9 +183,6 @@ DMLS-Inconel718-HIP-Study/
 │
 ├── README.md
 │
-├── Presentation/
-│   └── BTP_Mid_Evaluation.pdf
-│
 ├── Literature/
 │   └── Research_Papers/
 │

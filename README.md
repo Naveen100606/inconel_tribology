@@ -1,6 +1,6 @@
 # Experimental Investigation of Microstructure & Wear Properties of DMLS-Produced Inconel 718
 
-## 📌 Project Overview
+##  Project Overview
 
 This project investigates the **microstructural and defect characteristics of DMLS-produced Inconel 718** and studies the effect of **Hot Isostatic Pressing (HIP)** on the as-built material.
 
@@ -10,7 +10,7 @@ The project focuses on understanding the relationship between **additive manufac
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Investigate the microstructure of **DMLS-produced Inconel 718** in the as-built condition.
 * Study the influence of **HIP treatment** on microstructural and defect characteristics.
@@ -22,7 +22,7 @@ The project focuses on understanding the relationship between **additive manufac
 
 ---
 
-## 🧱 Material: Inconel 718
+##  Material: Inconel 718
 
 Inconel 718 is a **nickel-based superalloy** widely used in demanding high-temperature applications such as aerospace and gas-turbine components.
 
@@ -38,7 +38,7 @@ The presentation identifies γ″ as the main strengthening precipitate and note
 
 ---
 
-## ⚙️ Additive Manufacturing Process
+##  Additive Manufacturing Process
 
 The samples were produced using **Direct Metal Laser Sintering (DMLS)** / laser-based powder bed fusion.
 
@@ -60,7 +60,7 @@ These processing parameters were used for fabrication of the Inconel 718 samples
 
 ---
 
-## 🔥 Hot Isostatic Pressing (HIP)
+##  Hot Isostatic Pressing (HIP)
 
 ### What is HIP?
 
@@ -80,7 +80,7 @@ The two HIP conditions were selected to study the effect of treatment temperatur
 
 ---
 
-## 🔬 Sample Preparation & Characterization
+##  Sample Preparation & Characterization
 
 The samples were prepared for microstructural characterization using a sequence of sectioning, mounting, grinding, polishing, and etching.
 
@@ -103,7 +103,7 @@ The Micro-Vickers testing was performed using a **0.5 kgf load** with a **10 s d
 
 ---
 
-## 🧪 Microstructural Comparison
+##  Microstructural Comparison
 
 Three material conditions are investigated:
 
@@ -127,7 +127,7 @@ Optical and SEM micrographs were obtained for the three conditions to investigat
 
 ---
 
-## 🧠 Why HIP is Important for AM Inconel 718
+##  Why HIP is Important for AM Inconel 718
 
 During metal additive manufacturing, rapid melting and solidification can produce defects and chemical segregation.
 
@@ -144,7 +144,7 @@ The project therefore uses HIP as a post-processing method to investigate whethe
 
 ---
 
-## 📊 Future Work
+##  Future Work
 
 The next stages of the project include:
 
@@ -176,7 +176,7 @@ Ball-on-disc wear testing will be conducted on different heat-treated conditions
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 DMLS-Inconel718-HIP-Study/
@@ -201,7 +201,7 @@ DMLS-Inconel718-HIP-Study/
 
 ---
 
-## 🛠️ Tools & Techniques
+##  Tools & Techniques
 
 **Material:** Inconel 718
 **Manufacturing:** DMLS / Laser Powder Bed Fusion
@@ -212,7 +212,7 @@ DMLS-Inconel718-HIP-Study/
 
 ---
 
-## 📚 Key Topics Studied
+##  Key Topics Studied
 
 * Metal Additive Manufacturing
 * DMLS / Laser Powder Bed Fusion
@@ -229,7 +229,7 @@ DMLS-Inconel718-HIP-Study/
 
 ---
 
-## 📖 References
+##  References
 
 1. Benzing, J. T. et al. (2023). *Enhanced strength of additively manufactured Inconel 718 by means of a simplified heat treatment strategy*. Journal of Materials Processing Technology, 322, 118197.
 
@@ -237,7 +237,7 @@ DMLS-Inconel718-HIP-Study/
 
 ---
 
-## 👥 Project Team
+##  Project Team
 
 **Taneti Naveen** — 230003078
 **Paidi Nisanth** — 230003049
@@ -248,7 +248,7 @@ DMLS-Inconel718-HIP-Study/
 
 ---
 
-## 📌 Project Status
+##  Project Status
 
 **Current Stage:** Microstructural characterization and hardness evaluation of as-built and HIP-treated Inconel 718.
 
